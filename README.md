@@ -1,5 +1,8 @@
 # Evaluación Integradora del Módulo 4 del Bootcamp Fullstack Java 
-<img src="assets/images/java.png" alt="logo de Java" width="100">
+<img src="./Wallet/assets/java.png" alt="logo de Java" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="logo de Java" width="100">
+<img src="./Wallet/assets/eclipse.png" alt="logo de Java" width="100">
+
 
 Al finalizar el Bootcamp Fullstack Java, se debe presentar un proyecto final, el cual consite en el desarrollo de una billetera digital **"Alke Wallet"**.
 
